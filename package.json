@@ -1,0 +1,25 @@
+{
+  "name": "img-to-canvas",
+  "version": "0.1.0",
+  "description": "Turn an image tag into a canvas tag, optionally clipping its dimensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weo-edu/img-to-canvas"
+  },
+  "keywords": [
+    "img",
+    "canvas",
+    "crop",
+    "clip"
+  ],
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weo-edu/img-to-canvas/issues"
+  },
+  "homepage": "https://github.com/weo-edu/img-to-canvas"
+}
