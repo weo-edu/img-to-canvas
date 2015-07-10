@@ -1,6 +1,6 @@
 {
   "name": "img-to-canvas",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Turn an image tag into a canvas tag, optionally clipping its dimensions",
   "main": "index.js",
   "scripts": {
